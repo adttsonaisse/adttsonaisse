@@ -7,8 +7,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adttsonaisse&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=adttsonaisse&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adttsonaisse&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=adttsonaisse&theme=tokyonight&hide_border=true" />
   <img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adttsonaisse&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&card_width=480" />
 </div>
 
