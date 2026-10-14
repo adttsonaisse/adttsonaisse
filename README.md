@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="60" />
 
-# Hi there, I'm Adit 👋
+# Hi there, I'm Adit
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Fullstack+Developer;Flutter+%7C+Web+%7C+Cloud+Enthusiast;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
