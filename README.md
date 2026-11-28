@@ -15,7 +15,3 @@
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/adttsonaisse/adttsonaisse/output/snake.svg" alt="snake animation" />
 </div>
-
-<p align="center">
-  Thanks for stopping by! Let's build something awesome together ✨
-</p>
